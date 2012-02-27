@@ -1,0 +1,11 @@
+--- /dev/null
++++ /dev/null
+@@ -3519,7 +3526,7 @@
+ 
+ (defconst preview-version (eval-when-compile
+   (let ((name "$Name:  $")
+-   (rev "$Revision: 1.284 $"))
++   (rev "$Revision: 1.285 $"))
+     (or (when (string-match "\\`[$]Name: *release_\\([^ ]+\\) *[$]\\'" name)
+ 	  (setq name (match-string 1 name))
+ 	  (while (string-match "_" name)
