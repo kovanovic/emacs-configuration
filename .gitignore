@@ -2,3 +2,10 @@
 /lib/auto/
 /auto-save-list/
 /swank/
+/.emacs-private.el
+/template1.el
+/template2.el
+/template-cal.el
+/tramp
+/.org-id-locations
+/ac-comphist.dat
